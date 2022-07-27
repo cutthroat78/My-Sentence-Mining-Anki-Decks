@@ -1,5 +1,5 @@
 # My Sentence Mining Anki Decks
-
+Reminder: Use "Update existing notes when first field matches" option when importing
 # Note Type Code
 ## Card 1: Target Language -> Source Language
 ### Front
