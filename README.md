@@ -1,4 +1,4 @@
-# Template-Language-Anki-Deck
+# My Sentence Mining Anki Decks
 
 # Note Type Code
 ## Card 1: Target Language -> Source Language
