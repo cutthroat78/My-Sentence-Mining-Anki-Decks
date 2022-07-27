@@ -1,0 +1,2 @@
+ID,gender,target language,target language audio,source langauge,target language sentence,target language sentence audio,source language sentence,image,tags
+1,(une),fleur,[sound:template-1.mp3],flower,Je voudrais une <u>fleur</u>,[sound:template-1-sentence.mp3],I would like a flower,<img src='template-1.jpg'>,plants basic-words
