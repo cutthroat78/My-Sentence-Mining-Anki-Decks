@@ -1,12 +1,12 @@
 # My Sentence Mining Anki Decks
 Reminder: Use "Update existing notes when first field matches" option when importing
 ## Decks
-- [Super (A deck with words from all languages (English Centric) (Words may not be 1:1 accurate (Languages don't work like that)))]()
+- [Super (A deck with words from all languages (English Centric) (Words may not be 1:1 accurate (Languages don't work like that)))](super.csv)
 ### European
-- [French]()
-- [German]()
+- [French](french.csv)
+- [German](german.csv)
 ### Conlangs
-- [Esperanto]()
+- [Esperanto](esperanto.csv)
 ### Native American
 - 
 # Note Type Code
