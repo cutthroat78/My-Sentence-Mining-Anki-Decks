@@ -1,5 +1,14 @@
 # My Sentence Mining Anki Decks
 Reminder: Use "Update existing notes when first field matches" option when importing
+## Decks
+- [Super (A deck with words from all languages (English Centric) (Words may not be 1:1 accurate (Languages don't work like that)))]()
+### European
+- [French]()
+- [German]()
+### Conlangs
+- [Esperanto]()
+### Native American
+- 
 # Note Type Code
 ## Card 1: Target Language -> Source Language
 ### Front
